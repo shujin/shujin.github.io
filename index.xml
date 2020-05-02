@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shuj.in</title>
+    <link>https://shuj.in/</link>
+    <description>Recent content on shuj.in</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Jinny Wong</copyright>
+    <lastBuildDate>Sat, 02 May 2020 20:46:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://shuj.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reboot</title>
+      <link>https://shuj.in/posts/reboot/</link>
+      <pubDate>Sat, 02 May 2020 20:46:30 +0800</pubDate>
+      
+      <guid>https://shuj.in/posts/reboot/</guid>
+      <description>I spent most of my career writing code - mostly Ruby on Rails and Objective-C, and in the last few years I&amp;rsquo;ve been mostly in Engineering Management, which means writing less code and managing people and strategy more.
+But thanks to extra time and headspace introduced by COVID-19 related #StayHome social distancing and lockdown measures (aka Circuit Breaker if you&amp;rsquo;re in 🇸🇬), I&amp;rsquo;ve taken the opportunity to bring myself up to date and rekindle my relationship with writing and deploying code.</description>
+    </item>
+    
+    <item>
+      <title>Jinny Wong</title>
+      <link>https://shuj.in/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shuj.in/about/</guid>
+      <description>Hi, I am Jinny Wong (sometimes I also go by my married surname, Lo; other times, I go by my Chinese name, Shū Jǐn) — I&amp;rsquo;m an Engineering Manager/Software Engineer based in the sunny island of Singapore 🇸🇬
+I mostly code in Objective-C and Swift, Ruby on Rails, and some (non-React) JavaScript. I&amp;rsquo;m also attempting to pick up some Go.
+These days, I mostly manage engineers and engineering strategy.
+I am also a fountain pen and general writing instruments geek, you may see me occasionally write about pens, paper and ink 🖋</description>
+    </item>
+    
+  </channel>
+</rss>
